@@ -24,11 +24,15 @@ It allows you to search recipes, view details with ingredients and instructions,
 
 ## 🖼️ Preview
 
-### Home Page
-Search and browse recipes with smooth animations.
+### Home Page  
+![Home Page Screenshot](./Screenshots/home-page.jpg "Home Page")
 
-### Recipe Details
-Full details for each recipe with an elegant design.
+### Home Page Scrolled (Only Cards)  
+![Home Page Scrolled Screenshot](./Screenshots/home-page-scrolled.jpg "Home Page Scrolled")
+
+### Recipe Details Page  
+![Recipe Details Screenshot](./Screenshots/recipe-details.jpg "Recipe Details")
+
 
 ---
 

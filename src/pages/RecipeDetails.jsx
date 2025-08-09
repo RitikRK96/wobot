@@ -41,7 +41,7 @@ export default function RecipeDetails() {
   }
 
   return (
-    <div className="p-6 max-w-4xl mx-auto bg-white/10 backdrop-blur-lg rounded-2xl shadow-lg md:mt-8 text-white border border-white/20">
+    <div className="p-6 pt-20 max-w-4xl mx-auto bg-white/10 backdrop-blur-lg rounded-2xl shadow-lg md:mt-8 text-white border border-white/20">
       {/* Image */}
       <div className="overflow-hidden rounded-xl shadow-md">
         <img
